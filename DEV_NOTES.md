@@ -13,3 +13,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-07-01
 - Checked for memory leaks in long-running path
+
+## 2026-07-01
+- Added basic usage examples to README
+- Reorganised test fixtures
