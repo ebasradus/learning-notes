@@ -25,3 +25,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-07-08
 - Bumped patch version
+
+## 2026-07-08
+- Resolved TODO items from previous session
