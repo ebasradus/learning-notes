@@ -35,3 +35,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-07-15
 - Addressed feedback from self code review
+
+## 2026-07-15
+- Consolidated duplicate helper functions
+- Fixed off-by-one error in loop
+- Documented config options
