@@ -28,3 +28,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-07-08
 - Resolved TODO items from previous session
+
+## 2026-07-15
+- Wrote notes on upcoming feature design
+- Verified API endpoint response schema
