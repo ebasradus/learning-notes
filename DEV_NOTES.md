@@ -49,3 +49,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added healthcheck endpoint stub
 - Reviewed codebase, identified areas for improvement
 - Refactored module structure for clarity
+
+## 2026-07-22
+- Updated CI cache strategy
+- Added basic usage examples to README
+- Resolved deprecation warnings
