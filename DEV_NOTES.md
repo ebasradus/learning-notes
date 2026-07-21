@@ -40,3 +40,7 @@ Personal development log — notes, findings, and ongoing work.
 - Consolidated duplicate helper functions
 - Fixed off-by-one error in loop
 - Documented config options
+
+## 2026-07-22
+- Removed unused variable declarations
+- Added basic retry logic for network requests
