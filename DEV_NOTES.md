@@ -66,3 +66,7 @@ Personal development log — notes, findings, and ongoing work.
 - Bumped patch version
 - Reviewed codebase, identified areas for improvement
 - Improved error handling in edge cases
+
+## 2026-08-05
+- Added basic retry logic for network requests
+- Noted known limitation in docs
