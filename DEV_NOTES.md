@@ -58,3 +58,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-07-29
 - Removed unused variable declarations
 - Resolved TODO items from previous session
+
+## 2026-08-05
+- Drafted initial implementation plan for v2
