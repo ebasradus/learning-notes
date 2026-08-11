@@ -75,3 +75,7 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed off-by-one error in loop
 - Resolved deprecation warnings
 - Added CONTRIBUTING.md stub
+
+## 2026-08-12
+- Added basic retry logic for network requests
+- Refactored module structure for clarity
