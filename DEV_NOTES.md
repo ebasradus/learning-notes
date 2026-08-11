@@ -70,3 +70,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-08-05
 - Added basic retry logic for network requests
 - Noted known limitation in docs
+
+## 2026-08-12
+- Fixed off-by-one error in loop
+- Resolved deprecation warnings
+- Added CONTRIBUTING.md stub
