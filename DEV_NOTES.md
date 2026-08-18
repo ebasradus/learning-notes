@@ -87,3 +87,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-08-19
 - Reviewed security headers configuration
+
+## 2026-08-19
+- Removed unused variable declarations
