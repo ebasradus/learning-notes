@@ -95,3 +95,8 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed codebase, identified areas for improvement
 - Bumped patch version
 - Reviewed open issues, added labels
+
+## 2026-08-26
+- Ran linter, applied auto-fixes
+- Drafted initial implementation plan for v2
+- Refactored module structure for clarity
