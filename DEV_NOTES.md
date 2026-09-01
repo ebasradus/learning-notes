@@ -105,3 +105,7 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed minor edge case in input handling
 - Noted known limitation in docs
 - Updated dependencies to latest stable versions
+
+## 2026-09-02
+- Pinned dependency versions for reproducibility
+- Resolved deprecation warnings
