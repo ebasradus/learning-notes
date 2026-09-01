@@ -109,3 +109,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-09-02
 - Pinned dependency versions for reproducibility
 - Resolved deprecation warnings
+
+## 2026-09-02
+- Updated CI cache strategy
+- Verified API endpoint response schema
