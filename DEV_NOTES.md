@@ -121,3 +121,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-09-30
 - Reorganised test fixtures
+
+## 2026-09-30
+- Removed unused variable declarations
+- Added inline documentation for core functions
+- Added healthcheck endpoint stub
