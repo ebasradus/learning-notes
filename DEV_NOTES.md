@@ -118,3 +118,6 @@ Personal development log — notes, findings, and ongoing work.
 - Updated dependencies to latest stable versions
 - Wrote notes on upcoming feature design
 - Fixed minor edge case in input handling
+
+## 2026-09-30
+- Reorganised test fixtures
