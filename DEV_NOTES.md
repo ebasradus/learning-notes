@@ -130,3 +130,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-09-30
 - Addressed feedback from self code review
 - Ran linter, applied auto-fixes
+
+## 2026-10-14
+- Documented config options
+- Fixed minor edge case in input handling
