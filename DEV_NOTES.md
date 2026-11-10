@@ -134,3 +134,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-10-14
 - Documented config options
 - Fixed minor edge case in input handling
+
+## 2026-11-11
+- Reviewed open issues, added labels
+- Resolved TODO items from previous session
+- Documented config options
