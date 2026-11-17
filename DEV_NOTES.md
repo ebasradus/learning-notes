@@ -139,3 +139,8 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed open issues, added labels
 - Resolved TODO items from previous session
 - Documented config options
+
+## 2026-11-18
+- Verified compatibility with latest runtime version
+- Updated .gitignore to exclude build artifacts
+- Fixed off-by-one error in loop
