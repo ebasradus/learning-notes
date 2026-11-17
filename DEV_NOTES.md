@@ -144,3 +144,6 @@ Personal development log — notes, findings, and ongoing work.
 - Verified compatibility with latest runtime version
 - Updated .gitignore to exclude build artifacts
 - Fixed off-by-one error in loop
+
+## 2026-11-18
+- Updated license year
